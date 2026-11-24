@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a software engineer with a strong interest in backend engineering, full-stack development, and software architecture.
+FPT University graduate and 50% scholarship recipient, with a strong interest in backend engineering, software architecture, and system design.
 
 I enjoy understanding how software works beneath the surface, solving complex technical problems, and building applications with reliability, maintainability, and simplicity in mind.
 
