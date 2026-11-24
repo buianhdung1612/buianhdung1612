@@ -97,7 +97,7 @@ Areas I am actively developing and studying.
 
 ## Let's Connect
 
-[GitHub](https://github.com/buianhdung1612) · [Dev Journal](https://github.com/buianhdung1612/dev-journal)
+[Portfolio](https://buianhdung1612.github.io) · [Dev Journal](https://github.com/buianhdung1612/dev-journal) · [GitHub](https://github.com/buianhdung1612) · [Email](mailto:buianh09dung@gmail.com)
 
 ---
 
